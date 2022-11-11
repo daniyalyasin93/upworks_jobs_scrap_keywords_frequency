@@ -7,3 +7,5 @@ This can then be used to find out the skills that are mentioned with more freque
 In the upworks_url variable please set the url of the upworks rss feed, you can get this by going to "FIND_WORK" in upworks and getting the RSS feed link
 
 The program saves the statistics in a json file and also an ignored keyword list, so with time if you keep adding to the ignored list, the results will become more accurate
+
+NOTE: I haven't got time to fully mature this yet..
